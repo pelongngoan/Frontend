@@ -23,6 +23,8 @@ import { MatLabel } from '@angular/material/form-field';
 import { ForgotPasswordComponent } from './forgot-password/forgot-password.component';
 import { LoginComponent } from './login/login.component';
 import { TokenInterceptorInterceptor } from './services/token-interceptor.interceptor';
+import { ProductComponent } from './material-component/dialog/product/product.component';
+
 
 
 
